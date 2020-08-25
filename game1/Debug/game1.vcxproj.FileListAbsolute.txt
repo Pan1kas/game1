@@ -1,0 +1,2 @@
+C:\Users\niarf\Desktop\c++\game1\game1\Debug\game1.exe
+C:\Users\niarf\Desktop\c++\game1\game1\Debug\game1.pdb

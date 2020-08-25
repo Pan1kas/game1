@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\niarf\Desktop\c++\game1\game1\main.cpp(29,5): error C2146: syntax error: missing ':' before identifier 'cout'
+C:\Users\niarf\Desktop\c++\game1\game1\main.cpp(29,5): error C2065: 'cout': undeclared identifier
+C:\Users\niarf\Desktop\c++\game1\game1\main.cpp(30,5): error C2143: syntax error: missing ';' before 'break'
